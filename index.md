@@ -19,7 +19,7 @@ Account Management: Points are tied to the user account and are non-transferable
 We are committed to protecting your privacy. We collect data necessary to manage your reward points and improve your experience within the app. By using Point Plus, you agree to the collection and use of information in accordance with this policy.
 
 4. Contact Us
-If you have any questions about the Program, these Terms, or our privacy practices, please reach out to us:
+If you have any questions about the Program, these Terms, or our privacy practices, please reach out to us: 
 
 Company: Point Plus
 
